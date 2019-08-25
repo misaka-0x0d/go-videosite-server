@@ -1,10 +1,10 @@
 package routers
 
 import (
-	"dogego/api"
-	"dogego/middlewares"
-	"dogego/tasks"
-	"dogego/utils"
+	"go-videosite-server/api"
+	"go-videosite-server/middlewares"
+	"go-videosite-server/tasks"
+	"go-videosite-server/utils"
 	"os"
 
 	"github.com/gin-gonic/gin"

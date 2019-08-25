@@ -1,8 +1,8 @@
 package services
 
 import (
-	"dogego/models"
-	"dogego/serializer"
+	"go-videosite-server/models"
+	"go-videosite-server/serializer"
 	"net/http"
 )
 

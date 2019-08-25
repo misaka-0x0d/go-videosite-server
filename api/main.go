@@ -1,7 +1,7 @@
 package api
 
 import (
-	"dogego/serializer"
+	"go-videosite-server/serializer"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

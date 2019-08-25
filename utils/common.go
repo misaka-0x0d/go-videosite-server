@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"dogego/models"
-	"dogego/serializer"
+	"go-videosite-server/models"
+	"go-videosite-server/serializer"
 	"encoding/json"
 	"fmt"
 	"math/rand"

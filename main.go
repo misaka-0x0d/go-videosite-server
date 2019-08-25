@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "dogego/conf"
-	"dogego/routers"
+	_ "go-videosite-server/conf"
+	"go-videosite-server/routers"
 	"log"
 	"net/http"
 	"os"

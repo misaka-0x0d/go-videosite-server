@@ -1,4 +1,4 @@
-module dogego
+module go-videosite-server
 
 go 1.12
 

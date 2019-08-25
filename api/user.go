@@ -1,9 +1,9 @@
 package api
 
 import (
-	"dogego/serializer"
-	"dogego/services"
-	"dogego/utils"
+	"go-videosite-server/serializer"
+	"go-videosite-server/services"
+	"go-videosite-server/utils"
 	"net/http"
 
 	"github.com/gin-contrib/sessions"

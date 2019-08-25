@@ -1,8 +1,8 @@
 version: "2"
 
 services:
-  dogego:
-    image: dogego
+  go-videosite-server:
+    image: go-videosite-server
     restart: always
     environment:
       - ADDR=:3000

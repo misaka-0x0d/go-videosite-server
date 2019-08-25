@@ -1,7 +1,7 @@
 package serializer
 
 import (
-	"dogego/models"
+	"go-videosite-server/models"
 	"net/http"
 )
 

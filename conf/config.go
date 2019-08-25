@@ -1,8 +1,8 @@
 package conf
 
 import (
-	"dogego/cache"
-	"dogego/models"
+	"go-videosite-server/cache"
+	"go-videosite-server/models"
 	"os"
 
 	"github.com/joho/godotenv"
